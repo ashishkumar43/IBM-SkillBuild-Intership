@@ -3,6 +3,7 @@
 
 # 🌊 HydroSafe Monitor 🚰  
 ## **Real-time Water Quality Monitoring Using Machine Learning**  
+![HydroSafe Monitor](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/hydroimages.png)
 
 🚀 **HydroSafe Monitor** is an AI-powered real-time water quality monitoring system that leverages **machine learning** and **sensor technology** to **detect contaminants** and **issue early warnings**, ensuring access to **safe drinking water**.  
 
@@ -53,7 +54,9 @@
 - Web-based dashboard for monitoring & alerts.  
 
 5️⃣ **Alert System:**  
-- If water quality **falls below safety standards**, an **instant alert** is sent to authorities.  
+- If water quality **falls below safety standards**, an **instant alert** is sent to authorities.
+
+![EDA](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/eda.jpg)
 
 ---
 

@@ -9,7 +9,9 @@
 
 📌 **Developed by:** **Team Performer**  
 📌 **Built for:** IBM SkillBuild  
-📌 **Mentors:** **Raashika Motwani & Amit Tiwari**  
+📌 **Mentors:** **Raashika Motwani & Amit Tiwari** 
+
+![Data Science](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/ml.png)
 
 ---
 
@@ -69,6 +71,12 @@
 🔹 Integrate with **IoT sensors** for continuous monitoring.  
 🔹 Build a **user-friendly dashboard** for non-expert users.  
 
+![Result](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/modelresult.png)
+
+![Result](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/modelresult1.png)
+
+![Result1](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/resultmatrix.jpg)
+
 ---
 
 ## 📂 **Project Files**  
@@ -82,8 +90,7 @@
 🌍 **IBM Cloud Deployment:**  
 [Click here to access the model](https://private.us-south.ml.cloud.ibm.com/ml/v4/deployments/d7f8abb5-e033-4032-b8c7-47814a342b1d/predictions?version=2021-05-01)  
 
-📊 **View the Presentation:**  
-[Download Presentation](./HydroSafe-Monitor.pptx)  
+![Modeldeploy](https://github.com/ashishkumar43/IBM-SkillBuild-Intership/blob/main/Images/model%20deploy.jpg)
 
 ---
 
